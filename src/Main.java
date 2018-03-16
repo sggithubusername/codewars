@@ -9,5 +9,7 @@ public class Main {
         System.out.println( SumDigPower.sumDigPow(1,100).toString());
 
 
+
+
     }
 }
